@@ -10,3 +10,4 @@ Parallel Processing Backend Replica Set Distributed Systems Kafka Firewalls UX O
 Testing Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Performance CI/CD Cloud Functions Serverless Code Review Difficult roads often lead to beautiful destinations.
 Data Pipeline Innovation distinguishes between a leader and a follower. Artificial Intelligence Framework To be the best, you must be able to handle the worst. Message Queue Lambda Functions Load Balancing Big Data Kafka JWT Difficult roads often lead to beautiful destinations. Distributed Systems Multi-threading
 Scalability Do what you love and the money will follow. Neural Networks Cache Invalidation Lambda Functions DNS Routing Python Optimization Algorithm
+DevOps API Gateway Scalability Success is how high you bounce when you hit bottom. Blockchain
