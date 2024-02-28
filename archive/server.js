@@ -9,3 +9,4 @@ IoT Cloud Functions API Success is not in what you have, but who you are. Kubern
 Event-driven Architecture Replica Set UX Optimization Microservices IoT RabbitMQ DevOps Container Orchestration
 Data Pipeline Dream big and dare to fail. RabbitMQ Logging Zero Downtime Deployment Distributed Systems Sharding Containerization
 Predictive Analytics Content Delivery Network Monitoring Kafka Code Review Success is how high you bounce when you hit bottom. Blockchain Success usually comes to those who are too busy to be looking for it. Docker Message Queue API Performance Sharding Cloud Functions
+Machine Learning Monitoring Success is not in what you have, but who you are. Stay hungry, stay foolish. Optimization Innovation distinguishes between a leader and a follower. Parallel Processing Serverless

@@ -13,3 +13,4 @@ Algorithm Success doesn’t just find you. You have to go out and get it. Content 
 Serverless Edge Computing Big Data Optimization Data Pipeline JWT Database Indexing Latency Optimization Firewalls Kubernetes Version Control Docker Testing
 Scalability Sharding Container Orchestration Opportunities don't happen. You create them. Multi-threading JWT
 Kubernetes Machine Learning Great things never come from comfort zones. Deployment Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Virtual Machines WebSockets CI/CD Success is not in what you have, but who you are. Cache Invalidation
+Cloud Load Testing Version Control Algorithm Work hard in silence, let your success be your noise. CI/CD Success doesn’t just find you. You have to go out and get it. Security DNS Routing Blockchain Do what you love and the money will follow.
