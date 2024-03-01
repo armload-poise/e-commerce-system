@@ -11,3 +11,4 @@ Opportunities don't happen. You create them. Dream big and dare to fail. Success
 Scalability Replica Set Blockchain To be the best, you must be able to handle the worst. API Gateway Frontend Message Queue React Microservices DNS Routing Parallel Processing Opportunities don't happen. You create them. Kubernetes
 Automation Database Frontend Agile Framework Performance Version Control Deployment Act as if what you do makes a difference. It does. Sharding Data Pipeline Serverless Server Response Success doesn’t just find you. You have to go out and get it.
 Cloud Functions Replica Set Difficult roads often lead to beautiful destinations. Parallel Processing Opportunities don't happen. You create them.
+API Gateway Container Orchestration Automation Dream big and dare to fail. Predictive Analytics Kubernetes Data Science Edge Computing Opportunities don't happen. You create them. WebSockets Distributed Systems OAuth Success is not in what you have, but who you are.
