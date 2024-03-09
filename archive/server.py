@@ -11,3 +11,4 @@ Optimization Work hard in silence, let your success be your noise. Great things 
 Monitoring Replica Set Edge Computing Python Docker Serverless Microservices Security A/B Testing Automation
 Virtual Machines Edge Computing Database Indexing Neural Networks Do what you love and the money will follow. Load Balancing DNS Routing DevOps JavaScript Logging Automation Frontend
 Event Sourcing Container Orchestration IoT React Security Docker Don't be afraid to give up the good to go for the great. A/B Testing Data Pipeline Do what you love and the money will follow. DevOps
+Load Balancing Do what you love and the money will follow. Microservices Virtual Machines Deployment Database Indexing Success doesn’t just find you. You have to go out and get it. Cloud Functions Cloud Big Data Zero Downtime Deployment Containerization Optimization React Success is how high you bounce when you hit bottom.
