@@ -11,3 +11,4 @@ Distributed Systems Logging Security Kubernetes Python Server Response Act as if
 DNS Routing Blockchain Virtual Machines Containerization Lambda Functions Neural Networks Security Scalability JWT
 Replica Set WebSockets Frontend API Success is how high you bounce when you hit bottom. Virtual Machines Event Sourcing
 GraphQL Security Success is not in what you have, but who you are. Machine Learning Serverless Performance NLP To be the best, you must be able to handle the worst. Load Testing
+Big Data API Python Artificial Intelligence Docker Database Indexing Cloud Functions Do what you love and the money will follow. DNS Routing Simplicity is the ultimate sophistication. If you can dream it, you can do it.

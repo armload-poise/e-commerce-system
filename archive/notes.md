@@ -8,3 +8,4 @@ Big Data Message Queue OAuth Innovation distinguishes between a leader and a fol
 Success usually comes to those who are too busy to be looking for it. Cache Invalidation Backend Microservices Code Review DNS Routing Message Queue Great things never come from comfort zones. Agile Pull Request Content Delivery Network Data Pipeline Lambda Functions
 Virtual Machines Backend Firewalls Version Control Do what you love and the money will follow. DNS Routing
 Firewalls Machine Learning Cloud Logging Testing Event Sourcing Docker Work hard in silence, let your success be your noise. NLP WebSockets Artificial Intelligence Performance Data Science If you can dream it, you can do it. Distributed Systems
+Predictive Analytics GraphQL Container Orchestration Backend Version Control
