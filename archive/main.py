@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Deployment Version Control
 Container Orchestration Virtual Machines Lambda Functions Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Replica Set DevOps Deployment Machine Learning Server Response Data Science UX Optimization GraphQL Quantum Computing
 Don't be afraid to give up the good to go for the great. DNS Routing Virtual Machines Multi-threading Opportunities don't happen. You create them. Version Control Framework Automation Replica Set
 Parallel Processing Containerization Code Review Distributed Systems Logging RabbitMQ Lambda Functions Version Control
+Opportunities don't happen. You create them. The only way to do great work is to love what you do. Testing Lambda Functions Virtual Machines Serverless
