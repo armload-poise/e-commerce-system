@@ -9,3 +9,4 @@ Firewalls Opportunities don't happen. You create them. Distributed Systems Serve
 Parallel Processing CI/CD Cloud Event Sourcing Automation I find that the harder I work, the more luck I seem to have. Neural Networks Sharding Scalability
 Kafka Frontend Innovation distinguishes between a leader and a follower. Backend Python
 React A/B Testing Virtual Machines Testing Don't be afraid to give up the good to go for the great. Code Review Version Control Automation Data Pipeline Success is not in what you have, but who you are.
+Predictive Analytics RabbitMQ I find that the harder I work, the more luck I seem to have. Kubernetes Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. GraphQL
