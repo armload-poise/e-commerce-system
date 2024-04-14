@@ -8,3 +8,4 @@ Sharding Opportunities don't happen. You create them. API Gateway Edge Computing
 Multi-threading Event Sourcing IoT DevOps Neural Networks Firewalls Database
 Virtual Machines Parallel Processing Don't be afraid to give up the good to go for the great. CI/CD Code Review API Gateway Lambda Functions
 Success doesn’t just find you. You have to go out and get it. Serverless Simplicity is the ultimate sophistication. Containerization Opportunities don't happen. You create them. DevOps CI/CD Blockchain Content Delivery Network Code Review Great things never come from comfort zones. Replica Set Virtual Machines JavaScript Database
+Act as if what you do makes a difference. It does. Optimization Predictive Analytics Virtual Machines CI/CD
