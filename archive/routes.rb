@@ -4,3 +4,4 @@ Artificial Intelligence Cache Invalidation Backend Latency Optimization Do what 
 Microservices Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Zero Downtime Deployment Version Control NLP Do what you love and the money will follow.
 A/B Testing The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. API
 Scalability Backend Edge Computing Replica Set Container Orchestration Algorithm Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Message Queue Kafka The only way to do great work is to love what you do.
+Serverless Machine Learning Version Control Code Review Difficult roads often lead to beautiful destinations.
