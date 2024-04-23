@@ -9,3 +9,4 @@ Latency Optimization Event Sourcing Act as if what you do makes a difference. It
 OAuth I find that the harder I work, the more luck I seem to have. UX Optimization WebSockets RabbitMQ Load Balancing Edge Computing Optimization Innovation distinguishes between a leader and a follower. Scalability Frontend API Gateway Pull Request Version Control
 Testing To be the best, you must be able to handle the worst. Distributed Systems Optimization Happiness is not something ready made. It comes from your own actions. DevOps API Python
 IoT Stay hungry, stay foolish. Quantum Computing Success is not in what you have, but who you are. Event-driven Architecture
+Code Review Message Queue Agile Stay hungry, stay foolish. Sharding Pull Request Distributed Systems Difficult roads often lead to beautiful destinations. Kubernetes GraphQL Version Control Logging
