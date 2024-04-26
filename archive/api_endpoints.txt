@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. Database Indexing B
 Scalability Kafka Predictive Analytics Sharding JWT Performance Difficult roads often lead to beautiful destinations. IoT JavaScript
 Distributed Systems Logging Security Kubernetes Python Server Response Act as if what you do makes a difference. It does. Edge Computing
 DNS Routing Blockchain Virtual Machines Containerization Lambda Functions Neural Networks Security Scalability JWT
+Replica Set WebSockets Frontend API Success is how high you bounce when you hit bottom. Virtual Machines Event Sourcing
