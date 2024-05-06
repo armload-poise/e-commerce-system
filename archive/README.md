@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. React Virtual Machi
 Sharding Opportunities don't happen. You create them. API Gateway Edge Computing Containerization Docker Optimization Cloud Kafka Framework WebSockets
 Multi-threading Event Sourcing IoT DevOps Neural Networks Firewalls Database
 Virtual Machines Parallel Processing Don't be afraid to give up the good to go for the great. CI/CD Code Review API Gateway Lambda Functions
+Success doesn’t just find you. You have to go out and get it. Serverless Simplicity is the ultimate sophistication. Containerization Opportunities don't happen. You create them. DevOps CI/CD Blockchain Content Delivery Network Code Review Great things never come from comfort zones. Replica Set Virtual Machines JavaScript Database
