@@ -6,3 +6,4 @@ Blockchain Firewalls Agile Distributed Systems Machine Learning Server Response 
 Difficult roads often lead to beautiful destinations. Neural Networks API Distributed Systems The only way to do great work is to love what you do. Parallel Processing Do what you love and the money will follow. OAuth Predictive Analytics
 Big Data Message Queue OAuth Innovation distinguishes between a leader and a follower. Event-driven Architecture Distributed Systems Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Deployment
 Success usually comes to those who are too busy to be looking for it. Cache Invalidation Backend Microservices Code Review DNS Routing Message Queue Great things never come from comfort zones. Agile Pull Request Content Delivery Network Data Pipeline Lambda Functions
+Virtual Machines Backend Firewalls Version Control Do what you love and the money will follow. DNS Routing
