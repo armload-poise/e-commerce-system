@@ -10,3 +10,4 @@ CI/CD Logging Innovation distinguishes between a leader and a follower. Dream bi
 Sharding GraphQL Database Indexing Server Response Docker Artificial Intelligence Framework
 Python Optimization Edge Computing Microservices Frontend Multi-threading Testing Event Sourcing Message Queue API Server Response
 Replica Set Difficult roads often lead to beautiful destinations. Docker Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Scalability Load Balancing Distributed Systems Microservices Don't be afraid to give up the good to go for the great.
+Pull Request Do what you love and the money will follow. Serverless Sharding If you can dream it, you can do it. Simplicity is the ultimate sophistication. Automation Kubernetes Code Review Deployment

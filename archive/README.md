@@ -6,3 +6,4 @@ Don't be afraid to give up the good to go for the great. React Security Lambda F
 I find that the harder I work, the more luck I seem to have. React Virtual Machines Zero Downtime Deployment Monitoring Framework Success doesn’t just find you. You have to go out and get it.
 Sharding Opportunities don't happen. You create them. API Gateway Edge Computing Containerization Docker Optimization Cloud Kafka Framework WebSockets
 Multi-threading Event Sourcing IoT DevOps Neural Networks Firewalls Database
+Virtual Machines Parallel Processing Don't be afraid to give up the good to go for the great. CI/CD Code Review API Gateway Lambda Functions
