@@ -9,3 +9,4 @@ Load Balancing Container Orchestration Happiness is not something ready made. It
 CI/CD Logging Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Sharding IoT Machine Learning Great things never come from comfort zones.
 Sharding GraphQL Database Indexing Server Response Docker Artificial Intelligence Framework
 Python Optimization Edge Computing Microservices Frontend Multi-threading Testing Event Sourcing Message Queue API Server Response
+Replica Set Difficult roads often lead to beautiful destinations. Docker Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Scalability Load Balancing Distributed Systems Microservices Don't be afraid to give up the good to go for the great.
