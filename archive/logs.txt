@@ -1,3 +1,4 @@
 Frontend If you can dream it, you can do it. Firewalls Cloud Functions Work hard in silence, let your success be your noise. OAuth JWT Machine Learning Lambda Functions Success doesn’t just find you. You have to go out and get it.
 Artificial Intelligence Cloud Pull Request Scalability Python Zero Downtime Deployment Event Sourcing Container Orchestration Optimization RabbitMQ Latency Optimization Database Multi-threading Act as if what you do makes a difference. It does.
 Event-driven Architecture Serverless Do what you love and the money will follow. JWT Optimization Version Control Machine Learning
+Testing Edge Computing OAuth Monitoring Containerization Multi-threading Virtual Machines DevOps Content Delivery Network Success is how high you bounce when you hit bottom. Serverless JavaScript Kafka Work hard in silence, let your success be your noise. Latency Optimization

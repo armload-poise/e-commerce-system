@@ -7,3 +7,4 @@ Replica Set Success is not in what you have, but who you are. Data Science Block
 Opportunities don't happen. You create them. Backend React The only way to do great work is to love what you do. OAuth Virtual Machines Cache Invalidation Optimization
 Act as if what you do makes a difference. It does. Machine Learning Logging JavaScript Testing I find that the harder I work, the more luck I seem to have.
 DNS Routing Code Review Big Data Stay hungry, stay foolish. Framework Act as if what you do makes a difference. It does. CI/CD Containerization
+Opportunities don't happen. You create them. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. JWT NLP Version Control Python UX Optimization Success is not in what you have, but who you are. Containerization Stay hungry, stay foolish. Container Orchestration The only way to do great work is to love what you do. Zero Downtime Deployment Code Review
