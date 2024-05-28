@@ -8,3 +8,4 @@ Cache Invalidation Agile Optimization DNS Routing Act as if what you do makes a 
 Firewalls Opportunities don't happen. You create them. Distributed Systems Serverless Message Queue Frontend Work hard in silence, let your success be your noise. Code Review Docker Neural Networks Event Sourcing Cloud Functions Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
 Parallel Processing CI/CD Cloud Event Sourcing Automation I find that the harder I work, the more luck I seem to have. Neural Networks Sharding Scalability
 Kafka Frontend Innovation distinguishes between a leader and a follower. Backend Python
+React A/B Testing Virtual Machines Testing Don't be afraid to give up the good to go for the great. Code Review Version Control Automation Data Pipeline Success is not in what you have, but who you are.
