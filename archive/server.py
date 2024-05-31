@@ -8,3 +8,4 @@ Lambda Functions Logging Work hard in silence, let your success be your noise. G
 Frontend Edge Computing Database Microservices Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Stay hungry, stay foolish.
 OAuth Python Testing Multi-threading UX Optimization NLP A/B Testing
 Optimization Work hard in silence, let your success be your noise. Great things never come from comfort zones. RabbitMQ The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Load Balancing DevOps Agile
+Monitoring Replica Set Edge Computing Python Docker Serverless Microservices Security A/B Testing Automation
