@@ -7,3 +7,4 @@ Container Orchestration Success is how high you bounce when you hit bottom. Don'
 Code Review Opportunities don't happen. You create them. Event-driven Architecture Act as if what you do makes a difference. It does. Containerization Multi-threading
 Firewalls Message Queue Simplicity is the ultimate sophistication. Neural Networks If you can dream it, you can do it. Framework Algorithm To be the best, you must be able to handle the worst. Frontend Server Response Performance Cloud
 IoT Message Queue Load Balancing DevOps Logging Replica Set Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Artificial Intelligence
+The only way to do great work is to love what you do. Dream big and dare to fail. Cloud Functions Pull Request Neural Networks Quantum Computing Code Review Python A/B Testing Message Queue Event-driven Architecture Zero Downtime Deployment OAuth
