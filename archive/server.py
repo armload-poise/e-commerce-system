@@ -7,3 +7,4 @@ Version Control Container Orchestration Happiness is not something ready made. I
 Lambda Functions Logging Work hard in silence, let your success be your noise. GraphQL Blockchain RabbitMQ Content Delivery Network Performance Replica Set Database Indexing
 Frontend Edge Computing Database Microservices Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Stay hungry, stay foolish.
 OAuth Python Testing Multi-threading UX Optimization NLP A/B Testing
+Optimization Work hard in silence, let your success be your noise. Great things never come from comfort zones. RabbitMQ The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Load Balancing DevOps Agile
