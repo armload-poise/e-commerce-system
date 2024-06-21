@@ -6,3 +6,4 @@ IoT Logging Data Science Kubernetes Serverless RabbitMQ
 Replica Set Success is not in what you have, but who you are. Data Science Blockchain Frontend Backend OAuth Do what you love and the money will follow. Cache Invalidation JWT Automation Data Pipeline Logging WebSockets Cloud
 Opportunities don't happen. You create them. Backend React The only way to do great work is to love what you do. OAuth Virtual Machines Cache Invalidation Optimization
 Act as if what you do makes a difference. It does. Machine Learning Logging JavaScript Testing I find that the harder I work, the more luck I seem to have.
+DNS Routing Code Review Big Data Stay hungry, stay foolish. Framework Act as if what you do makes a difference. It does. CI/CD Containerization
