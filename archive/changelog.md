@@ -5,3 +5,4 @@ API Gateway Success doesn’t just find you. You have to go out and get it. Stay h
 Python React Multi-threading Distributed Systems GraphQL OAuth Database Replica Set Opportunities don't happen. You create them. NLP Kafka Machine Learning
 Cloud OAuth GraphQL Agile Kafka Microservices Framework Machine Learning Edge Computing
 Happiness is not something ready made. It comes from your own actions. API WebSockets Container Orchestration Distributed Systems Event Sourcing Database
+Framework Logging Edge Computing Simplicity is the ultimate sophistication. Replica Set Cache Invalidation Data Pipeline Message Queue Security Kafka Cloud IoT Docker

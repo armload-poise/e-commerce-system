@@ -6,3 +6,4 @@ WebSockets Security Lambda Functions Difficult roads often lead to beautiful des
 I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Framework CI/CD Multi-threading A/B Testing Server Response Firewalls
 Kafka Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Deployment RabbitMQ Success is not in what you have, but who you are. Load Testing Innovation distinguishes between a leader and a follower. Database Indexing Zero Downtime Deployment Load Balancing Message Queue Docker
 IoT Cloud Functions API Success is not in what you have, but who you are. Kubernetes JavaScript
+Event-driven Architecture Replica Set UX Optimization Microservices IoT RabbitMQ DevOps Container Orchestration
