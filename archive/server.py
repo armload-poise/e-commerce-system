@@ -6,3 +6,4 @@ Kafka Machine Learning Quantum Computing Simplicity is the ultimate sophisticati
 Version Control Container Orchestration Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Serverless Replica Set Security Cloud Functions Content Delivery Network Event Sourcing Success is not in what you have, but who you are. Dream big and dare to fail.
 Lambda Functions Logging Work hard in silence, let your success be your noise. GraphQL Blockchain RabbitMQ Content Delivery Network Performance Replica Set Database Indexing
 Frontend Edge Computing Database Microservices Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Stay hungry, stay foolish.
+OAuth Python Testing Multi-threading UX Optimization NLP A/B Testing
