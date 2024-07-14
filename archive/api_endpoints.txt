@@ -7,3 +7,4 @@ Distributed Systems Logging Innovation distinguishes between a leader and a foll
 Replica Set Artificial Intelligence Testing DevOps JavaScript API Containerization Monitoring Zero Downtime Deployment Distributed Systems IoT Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Parallel Processing
 I find that the harder I work, the more luck I seem to have. Database Indexing Big Data DevOps Event Sourcing Machine Learning Quantum Computing Serverless Artificial Intelligence WebSockets Do what you love and the money will follow. Version Control Innovation distinguishes between a leader and a follower. API OAuth
 Scalability Kafka Predictive Analytics Sharding JWT Performance Difficult roads often lead to beautiful destinations. IoT JavaScript
+Distributed Systems Logging Security Kubernetes Python Server Response Act as if what you do makes a difference. It does. Edge Computing
