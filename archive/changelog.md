@@ -4,3 +4,4 @@ Distributed Systems Content Delivery Network Container Orchestration JWT Optimiz
 API Gateway Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Lambda Functions DevOps Serverless Act as if what you do makes a difference. It does. Logging Load Testing Deployment Data Pipeline Monitoring Testing NLP
 Python React Multi-threading Distributed Systems GraphQL OAuth Database Replica Set Opportunities don't happen. You create them. NLP Kafka Machine Learning
 Cloud OAuth GraphQL Agile Kafka Microservices Framework Machine Learning Edge Computing
+Happiness is not something ready made. It comes from your own actions. API WebSockets Container Orchestration Distributed Systems Event Sourcing Database
