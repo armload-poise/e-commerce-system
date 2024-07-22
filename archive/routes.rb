@@ -2,3 +2,4 @@ Success doesn’t just find you. You have to go out and get it. Pull Request Diffi
 Cache Invalidation Data Pipeline Scalability Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Dream big and dare to fail.
 Artificial Intelligence Cache Invalidation Backend Latency Optimization Do what you love and the money will follow. Version Control Microservices Opportunities don't happen. You create them. Security Innovation distinguishes between a leader and a follower. Multi-threading Message Queue DNS Routing CI/CD DevOps
 Microservices Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Zero Downtime Deployment Version Control NLP Do what you love and the money will follow.
+A/B Testing The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. API
