@@ -4,3 +4,4 @@ Content Delivery Network Simplicity is the ultimate sophistication. Stay hungry,
 Virtual Machines JavaScript Data Pipeline Scalability DNS Routing
 IoT Logging Data Science Kubernetes Serverless RabbitMQ
 Replica Set Success is not in what you have, but who you are. Data Science Blockchain Frontend Backend OAuth Do what you love and the money will follow. Cache Invalidation JWT Automation Data Pipeline Logging WebSockets Cloud
+Opportunities don't happen. You create them. Backend React The only way to do great work is to love what you do. OAuth Virtual Machines Cache Invalidation Optimization
