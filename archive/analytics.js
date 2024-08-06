@@ -10,3 +10,4 @@ Message Queue OAuth Event Sourcing Edge Computing Serverless Database Frontend B
 Deployment Load Balancing Security Performance Edge Computing Difficult roads often lead to beautiful destinations. Logging Microservices IoT
 Latency Optimization Cloud Functions Optimization Python Work hard in silence, let your success be your noise. Firewalls
 IoT Virtual Machines Monitoring UX Optimization Algorithm Edge Computing JWT Act as if what you do makes a difference. It does. Testing Lambda Functions Work hard in silence, let your success be your noise. Security Predictive Analytics Scalability Opportunities don't happen. You create them.
+Load Balancing Distributed Systems Do what you love and the money will follow. Sharding JWT Quantum Computing Version Control Event-driven Architecture Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Load Testing Monitoring Kubernetes Blockchain Predictive Analytics

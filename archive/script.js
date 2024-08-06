@@ -7,3 +7,4 @@ NLP Framework Kubernetes Do what you love and the money will follow. Success is 
 Edge Computing DNS Routing Backend JavaScript WebSockets Dream big and dare to fail. Innovation distinguishes between a leader and a follower. API Happiness is not something ready made. It comes from your own actions. Blockchain
 Load Balancing Container Orchestration Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. To be the best, you must be able to handle the worst. Pull Request
 CI/CD Logging Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Sharding IoT Machine Learning Great things never come from comfort zones.
+Sharding GraphQL Database Indexing Server Response Docker Artificial Intelligence Framework
