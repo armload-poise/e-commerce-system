@@ -9,3 +9,4 @@ Code Review Performance DevOps Microservices Cloud Functions Neural Networks Suc
 Message Queue OAuth Event Sourcing Edge Computing Serverless Database Frontend Blockchain Quantum Computing DNS Routing Big Data API Gateway
 Deployment Load Balancing Security Performance Edge Computing Difficult roads often lead to beautiful destinations. Logging Microservices IoT
 Latency Optimization Cloud Functions Optimization Python Work hard in silence, let your success be your noise. Firewalls
+IoT Virtual Machines Monitoring UX Optimization Algorithm Edge Computing JWT Act as if what you do makes a difference. It does. Testing Lambda Functions Work hard in silence, let your success be your noise. Security Predictive Analytics Scalability Opportunities don't happen. You create them.
