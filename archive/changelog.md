@@ -3,3 +3,4 @@ Blockchain GraphQL Cloud Functions Docker Machine Learning NLP Quantum Computing
 Distributed Systems Content Delivery Network Container Orchestration JWT Optimization Frontend To be the best, you must be able to handle the worst. UX Optimization Data Science Agile NLP Machine Learning
 API Gateway Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Lambda Functions DevOps Serverless Act as if what you do makes a difference. It does. Logging Load Testing Deployment Data Pipeline Monitoring Testing NLP
 Python React Multi-threading Distributed Systems GraphQL OAuth Database Replica Set Opportunities don't happen. You create them. NLP Kafka Machine Learning
+Cloud OAuth GraphQL Agile Kafka Microservices Framework Machine Learning Edge Computing
