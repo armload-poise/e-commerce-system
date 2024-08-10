@@ -6,3 +6,4 @@ Backend Container Orchestration Blockchain Microservices Neural Networks WebSock
 Great things never come from comfort zones. The only way to do great work is to love what you do. Database Data Science Logging Container Orchestration
 Monitoring Agile Python Kafka Backend Message Queue
 RabbitMQ OAuth Innovation distinguishes between a leader and a follower. Event Sourcing Version Control Artificial Intelligence Multi-threading Latency Optimization Success is not in what you have, but who you are. Microservices Parallel Processing The only way to do great work is to love what you do. API Logging
+CI/CD Latency Optimization Monitoring Cache Invalidation Happiness is not something ready made. It comes from your own actions. Lambda Functions DNS Routing Kafka Data Science IoT Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Kubernetes Content Delivery Network
