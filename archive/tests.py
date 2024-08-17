@@ -5,3 +5,4 @@ Lambda Functions Algorithm Agile Zero Downtime Deployment Database Replica Set S
 Backend Container Orchestration Blockchain Microservices Neural Networks WebSockets Frontend Serverless Parallel Processing Framework Code Review
 Great things never come from comfort zones. The only way to do great work is to love what you do. Database Data Science Logging Container Orchestration
 Monitoring Agile Python Kafka Backend Message Queue
+RabbitMQ OAuth Innovation distinguishes between a leader and a follower. Event Sourcing Version Control Artificial Intelligence Multi-threading Latency Optimization Success is not in what you have, but who you are. Microservices Parallel Processing The only way to do great work is to love what you do. API Logging
