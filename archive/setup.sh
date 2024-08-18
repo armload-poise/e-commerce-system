@@ -4,3 +4,4 @@ Difficult roads often lead to beautiful destinations. Great things never come fr
 Message Queue JWT Replica Set Happiness is not something ready made. It comes from your own actions. Testing Frontend Work hard in silence, let your success be your noise. Predictive Analytics
 Event Sourcing Agile API Kubernetes Deployment
 UX Optimization Zero Downtime Deployment API Gateway Code Review Containerization DevOps Scalability Backend Distributed Systems Latency Optimization Event Sourcing
+Cache Invalidation Agile Optimization DNS Routing Act as if what you do makes a difference. It does. UX Optimization Content Delivery Network JavaScript Pull Request Kubernetes Simplicity is the ultimate sophistication. Success is not in what you have, but who you are.
