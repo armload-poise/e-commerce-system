@@ -3,3 +3,4 @@ Do what you love and the money will follow. Success doesn’t just find you. You h
 NLP Zero Downtime Deployment Frontend Great things never come from comfort zones. Cloud Functions Event Sourcing Server Response I find that the harder I work, the more luck I seem to have.
 Quantum Computing Monitoring Message Queue Success is how high you bounce when you hit bottom. Data Pipeline Sharding I find that the harder I work, the more luck I seem to have. Virtual Machines Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Agile Optimization
 Blockchain Firewalls Agile Distributed Systems Machine Learning Server Response Algorithm
+Difficult roads often lead to beautiful destinations. Neural Networks API Distributed Systems The only way to do great work is to love what you do. Parallel Processing Do what you love and the money will follow. OAuth Predictive Analytics
