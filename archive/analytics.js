@@ -7,3 +7,4 @@ API Agile Message Queue OAuth Data Science Replica Set Frontend DNS Routing Diff
 Cloud Functions To be the best, you must be able to handle the worst. Data Pipeline Docker Quantum Computing Multi-threading Happiness is not something ready made. It comes from your own actions. Lambda Functions Load Balancing Zero Downtime Deployment Cloud Event Sourcing Predictive Analytics Scalability Kubernetes
 Code Review Performance DevOps Microservices Cloud Functions Neural Networks Success doesn’t just find you. You have to go out and get it. Replica Set Success is how high you bounce when you hit bottom.
 Message Queue OAuth Event Sourcing Edge Computing Serverless Database Frontend Blockchain Quantum Computing DNS Routing Big Data API Gateway
+Deployment Load Balancing Security Performance Edge Computing Difficult roads often lead to beautiful destinations. Logging Microservices IoT
