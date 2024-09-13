@@ -2,3 +2,4 @@ API Machine Learning Zero Downtime Deployment IoT Monitoring Quantum Computing K
 Stay hungry, stay foolish. Automation Blockchain Cache Invalidation If you can dream it, you can do it. IoT Parallel Processing Do what you love and the money will follow. Container Orchestration Artificial Intelligence
 Success is not in what you have, but who you are. Server Response Dream big and dare to fail. Kafka IoT Containerization Agile Optimization NLP
 Microservices Message Queue Logging Distributed Systems Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. API Framework Cache Invalidation Act as if what you do makes a difference. It does. Data Pipeline Pull Request Security CI/CD Serverless
+Content Delivery Network Great things never come from comfort zones. Big Data Happiness is not something ready made. It comes from your own actions. Cloud Difficult roads often lead to beautiful destinations.
