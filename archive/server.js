@@ -3,3 +3,4 @@ Event-driven Architecture Backend Work hard in silence, let your success be your
 Don't be afraid to give up the good to go for the great. Cache Invalidation Simplicity is the ultimate sophistication. Load Testing Artificial Intelligence Scalability Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Container Orchestration Edge Computing Python Database Testing Neural Networks Blockchain
 Backend Stay hungry, stay foolish. Distributed Systems Security Do what you love and the money will follow. Scalability
 WebSockets Security Lambda Functions Difficult roads often lead to beautiful destinations. Message Queue CI/CD Big Data Data Pipeline Optimization Event-driven Architecture
+I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Framework CI/CD Multi-threading A/B Testing Server Response Firewalls
