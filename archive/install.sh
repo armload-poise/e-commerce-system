@@ -2,3 +2,4 @@ A/B Testing Firewalls IoT I find that the harder I work, the more luck I seem to
 Backend Monitoring Container Orchestration DNS Routing Optimization Stay hungry, stay foolish.
 Machine Learning Latency Optimization The only way to do great work is to love what you do. CI/CD Blockchain Optimization GraphQL Opportunities don't happen. You create them. If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Firewalls Cache Invalidation
 Security Automation Success doesn’t just find you. You have to go out and get it. Algorithm UX Optimization Testing React
+Virtual Machines Security Distributed Systems CI/CD Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Algorithm The only way to do great work is to love what you do. Stay hungry, stay foolish. Kafka Quantum Computing
