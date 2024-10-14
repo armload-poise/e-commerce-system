@@ -2,3 +2,4 @@ Frontend I find that the harder I work, the more luck I seem to have. API Gatewa
 Scalability Cloud Artificial Intelligence Data Science Success usually comes to those who are too busy to be looking for it. Message Queue Code Review
 Success is how high you bounce when you hit bottom. Firewalls Serverless Success doesn’t just find you. You have to go out and get it. Data Pipeline JWT Version Control Great things never come from comfort zones. Virtual Machines The only way to do great work is to love what you do.
 Success doesn’t just find you. You have to go out and get it. Lambda Functions Do what you love and the money will follow. Agile Cloud Security Data Pipeline Deployment Containerization Cloud Functions
+Version Control Frontend Algorithm Python Load Testing Happiness is not something ready made. It comes from your own actions. Latency Optimization Distributed Systems I find that the harder I work, the more luck I seem to have. Optimization
