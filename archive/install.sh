@@ -1,3 +1,4 @@
 A/B Testing Firewalls IoT I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Agile Monitoring Dream big and dare to fail. Virtual Machines Neural Networks
 Backend Monitoring Container Orchestration DNS Routing Optimization Stay hungry, stay foolish.
 Machine Learning Latency Optimization The only way to do great work is to love what you do. CI/CD Blockchain Optimization GraphQL Opportunities don't happen. You create them. If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Firewalls Cache Invalidation
+Security Automation Success doesn’t just find you. You have to go out and get it. Algorithm UX Optimization Testing React
