@@ -1,1 +1,2 @@
 Success doesn’t just find you. You have to go out and get it. Pull Request Difficult roads often lead to beautiful destinations. UX Optimization Cache Invalidation Kafka Success is how high you bounce when you hit bottom. OAuth Don't be afraid to give up the good to go for the great. IoT
+Cache Invalidation Data Pipeline Scalability Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Dream big and dare to fail.
