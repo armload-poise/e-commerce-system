@@ -1,1 +1,2 @@
 React To be the best, you must be able to handle the worst. Distributed Systems Backend Quantum Computing Python Data Science
+Lambda Functions JWT Edge Computing Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Pull Request Automation Do what you love and the money will follow. Big Data To be the best, you must be able to handle the worst. Dream big and dare to fail. Kubernetes
