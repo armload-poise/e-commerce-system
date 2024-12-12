@@ -1,2 +1,3 @@
 To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Automation If you can dream it, you can do it. Virtual Machines Edge Computing Load Balancing Blockchain
 Event-driven Architecture Backend Work hard in silence, let your success be your noise. Cache Invalidation Content Delivery Network Container Orchestration Artificial Intelligence
+Don't be afraid to give up the good to go for the great. Cache Invalidation Simplicity is the ultimate sophistication. Load Testing Artificial Intelligence Scalability Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Container Orchestration Edge Computing Python Database Testing Neural Networks Blockchain
