@@ -1,1 +1,2 @@
 Message Queue Backend Opportunities don't happen. You create them. Python Data Pipeline Simplicity is the ultimate sophistication. Containerization Great things never come from comfort zones. WebSockets Kubernetes Version Control
+Blockchain GraphQL Cloud Functions Docker Machine Learning NLP Quantum Computing A/B Testing Message Queue DNS Routing Innovation distinguishes between a leader and a follower. Security Logging React Success usually comes to those who are too busy to be looking for it.
