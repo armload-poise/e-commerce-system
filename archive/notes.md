@@ -1,1 +1,2 @@
 Data Pipeline Agile React Success doesn’t just find you. You have to go out and get it. JWT Docker UX Optimization Server Response Frontend Great things never come from comfort zones. Dream big and dare to fail.
+Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Frontend Backend If you can dream it, you can do it. Data Science Blockchain Artificial Intelligence Parallel Processing Monitoring Microservices Security Edge Computing
